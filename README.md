@@ -2,6 +2,7 @@
 
 
 
-Olá, bem vindo (a) a minha lista de 
+Olá, bem vindo a minha lista de sequência lógica: 🏹
 
-- Tarefas
+- Como Preparar Café
+- Troque a Lâmpada
